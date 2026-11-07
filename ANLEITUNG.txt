@@ -1,0 +1,9 @@
+O’Donnell Konstanz 2026 – PWA Version 0.2
+
+1. Alle Dateien zusammen auf einem HTTPS-Webhost in EINEM Ordner bereitstellen (z. B. über einen privaten Hosting-Account). Eine HTML-Vorschau in Google Drive reicht nicht.
+2. Die HTTPS-Adresse zu index.html in Safari auf dem iPad öffnen.
+3. Teilen > Zum Home-Bildschirm > Hinzufügen.
+4. Einmal bei Internetverbindung öffnen und vollständig laden lassen. Danach Flugmodus testen.
+5. Nur Testdaten verwenden, bis Offline-Speicherung und JSON-Export/Import geprüft sind.
+6. Achtung: Es gibt noch keinen Benutzerlogin oder Server-Sync. Jeder, der die URL kennt, kann die leere App laden; Inventurdaten werden nur lokal auf dem jeweiligen Gerät gespeichert. Keine echten vertraulichen Daten auf einem öffentlich zugänglichen Host ablegen.
+7. Nach erfolgreichem Test gemeinsam die Drive-Freigabe der alten HTML-Datei in Ordner 98 wieder auf Eingeschränkt stellen.
